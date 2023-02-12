@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Web3 or AI projects, frontend and backend with Python, JS or go...
 - 😄 Pronouns: he/him
-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaptXiong)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaptXiong)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CaptXiong/CaptXiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
