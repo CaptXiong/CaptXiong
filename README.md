@@ -1,7 +1,7 @@
 ### Hi there, I am Spike👋
 
 - 🔭 I’m a mundane ML engineer, crypto player, problem solver, and good chat partner.
-- 🌱 I’m currently learning Flutter and the piano.
+- 🌱 I’m currently learning Flutter and piano.
 - 👯 I’m looking to collaborate on Web3 or AI projects, frontend and backend with Python, JS or go...
 - 🥳 Fun fact: I got my English name Spike from Space Cowboy, and the Bio "Sic Parvis Magna" from Uncharted.
 
