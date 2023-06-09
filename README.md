@@ -5,10 +5,6 @@
 - 👯 I’m looking to collaborate on Web3 or AI projects, frontend and backend with Python, JS or go...
 - 🥳 Fun fact: I got my English name Spike from Space Cowboy, and the Bio "Sic Parvis Magna" from Uncharted.
 
-### Location
-
-China
-
 ### Links
 
 - [LinkedIn](https://www.linkedin.com/in/spike-xiong/) 
