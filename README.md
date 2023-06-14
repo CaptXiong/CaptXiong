@@ -5,12 +5,6 @@
 - 👯 I’m looking to collaborate on Web3 or AI projects, frontend and backend with Python, JS or go...
 - 🥳 Fun fact: I got my English name Spike from Space Cowboy, and the Bio "Sic Parvis Magna" from Uncharted.
 
-### Links
-
-- [LinkedIn](https://www.linkedin.com/in/spike-xiong/) 
-- [Stackoverflow](https://stackoverflow.com/users/12004853/spike-xiong)
-- [Personal Blog](https://captxiong.github.io/)
-
 ### Skills
 
 - Languages: Python, JavaScript
@@ -18,7 +12,18 @@
 - Tools: Docker, Git, Supervisor, CI/CD
 - Database: Mysql, Redis, Elasticsearch, Milvus, MongoDB
 
+### Links
+
+- [LinkedIn](https://www.linkedin.com/in/spike-xiong/) 
+- [Stackoverflow](https://stackoverflow.com/users/12004853/spike-xiong)
+- [Personal Blog](https://captxiong.github.io/)
+
+[![user:12004853's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/12004853?theme=monokai)](https://github.com/johannchopin/stackoverflow-readme-profile)[![user:12004853's ranking for python](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/python/12004853?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/python/users/12004853)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaptXiong)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **CaptXiong/CaptXiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
