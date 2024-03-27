@@ -1,4 +1,4 @@
-### Hi there, I am Spike👋
+### Hi there, I am Spike👋 ML engineer/Data scientist/Software engineer
 
 - 🔭 I’m a mundane ML engineer, crypto player, problem solver, and good chat partner.
 - 🌱 I’m currently learning Flutter and piano.
