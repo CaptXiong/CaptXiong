@@ -7,9 +7,9 @@
 
 ### Skills
 
-- Languages: Python, JavaScript
+- Languages: Python, JavaScript, Dart
 - Frameworks and packages: FastAPI, Pytorch, Transformers, RASA, Detectron2, Spacy
-- Tools: Docker, Git, Supervisor, CI/CD
+- Tools: Docker, Git, Supervisor, CI/CD, MLflow
 - Database: Mysql, Redis, Elasticsearch, Milvus, MongoDB
 
 ### Links
