@@ -14,7 +14,6 @@
 
 ### Links
 
-- [LinkedIn](https://www.linkedin.com/in/spike-xiong/) 
 - [Stackoverflow](https://stackoverflow.com/users/12004853/spike-xiong)
 - [Personal Blog](https://captxiong.github.io/)
 
