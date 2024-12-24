@@ -17,7 +17,7 @@
 - [Stackoverflow](https://stackoverflow.com/users/12004853/spike-xiong)
 - [Personal Blog](https://captxiong.github.io/)
 
-![user:12004853's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/12004853?theme=monokai)![user:12004853's ranking for python](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/python/12004853?theme=monokai)
+![user:12004853's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/12004853?theme=monokai)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaptXiong&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
