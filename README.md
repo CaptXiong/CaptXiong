@@ -2,15 +2,15 @@
 
 - 🔭 I’m a mundane ML engineer, crypto player, problem solver, and good chat partner.
 - 🌱 I’m currently learning Flutter and piano.
-- 👯 I’m looking to collaborate on Web3 or AI projects, frontend and backend with Python, JS or go...
+- 👯 I’m looking to collaborate on Web3 or AI projects...
 - 🥳 Fun fact: I got my English name Spike from Space Cowboy, and the Bio "Sic Parvis Magna" from Uncharted.
 
 ### Skills
 
 - Languages: Python, JavaScript, Dart
-- Frameworks and packages: FastAPI, Pytorch, Transformers, RASA, Detectron2, Spacy
-- Tools: Docker, Git, Supervisor, CI/CD, MLflow
-- Database: Mysql, Redis, Elasticsearch, Milvus, MongoDB
+- Frameworks and packages: FastAPI, Pytorch, Transformers, RASA, Detectron2, Spacy, PEFT
+- Tools: Docker, Git, Supervisor, CI/CD, MLflow, K8s
+- Database: MySQL, Redis, Elasticsearch, Milvus, MongoDB
 
 ### Links
 
