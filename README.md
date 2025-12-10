@@ -19,7 +19,7 @@
 
 ![user:12004853's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/12004853?theme=monokai)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptXiong&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
